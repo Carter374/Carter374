@@ -13,12 +13,8 @@ You’re free to use, modify, or build onto (unless stated otherwise), as long a
   (I also don't have any other public social media. so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect">use my contect repo</a>)
 </h3>
 
-</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carterlb-com&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterlb-com" alt="Top Languages" />
-</div>   
 
 <h1 align="center">Toolbox:
   <br><sub>(What I primarily use)</sub>
@@ -27,3 +23,6 @@ You’re free to use, modify, or build onto (unless stated otherwise), as long a
 <p align="center">
   <img width="738" height="100" alt="image" src="images/Toolbox/Toolbox.svg" />
 </p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterlb-com" alt="Top Languages" />
