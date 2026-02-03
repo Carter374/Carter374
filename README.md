@@ -14,7 +14,7 @@ You’re free to use, modify, or build onto (unless stated otherwise), as long a
 </h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carterlb-com&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
 
 <h1 align="center">Toolbox:
   <br><sub>(What I primarily use)</sub>
@@ -25,4 +25,5 @@ You’re free to use, modify, or build onto (unless stated otherwise), as long a
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterlb-com" alt="Top Languages" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterLB-COM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterLB-COM)](https://github.com/anuraghazra/github-readme-stats)
