@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/c9ae4a2e-0a83-44b4-b4e4-84a947a099b4" />
+  <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/United%20States.svg" />
+  <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/Arizona.svg" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
