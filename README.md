@@ -10,13 +10,13 @@
 
 <h2>
   American programmer. <br>
-  <sub>on & off programming for 3 years, and stop for 2, <br> so I'm relearning alot as I go started learning C# and Unity at 12 or 13</sub>
+  <sub>on & off programming for 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
 </h2>
   
-<h2>
+<h3>
   Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br>
   <sub><br>I also don't have any other public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect/discussions">use my contect repo</a></sub>
-</h2>
+</h3>
 
 <h1 align="center">Toolbox:
   <br><sub>(What I primarily use)</sub>
