@@ -10,8 +10,8 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterLB-COM&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterLB-COM)](https://github.com/CarterLB-COM/github-readme-stats)
+![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=prussian&show_icons=true)
+[![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=prussian)](https://github.com/CarterLB-COM/github-readme-stats)
 
 <h1 align="center">Contect:
   <br><sub>I don't have any public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect/discussions">use my contect repo</a></sub>
