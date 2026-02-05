@@ -11,7 +11,7 @@
 
 
 ![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=prussian&show_icons=true)
-[![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=prussian&show_icons=true)](https://github.com/CarterLB-COM/github-readme-stats)
+[![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=prussian&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/github-readme-stats)
 
 <h1 align="center">Contect:
   <br><sub>I don't have any public social media. <br> so if you went to contect me, <a href="https://github.com/CarterLB-COM/contect/discussions">use my contect repo</a></sub>
