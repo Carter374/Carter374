@@ -28,4 +28,4 @@
 
 <h5>Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br></h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=e77123" alt="carterlb-com" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=FF4500" alt="carterlb-com" /> </p>
