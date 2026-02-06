@@ -7,6 +7,11 @@
   American programmer. <br>
   <sub>on & off programming for (approx) 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
 </h1>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Contect-Me-%23FF4500?link=https%3A%2F%2Fgithub.com%2FCarterLB-COM%2Fcontect%2Fdiscussions">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Status-Active-green">
+
+</p>
 <div align="center">
 
 
