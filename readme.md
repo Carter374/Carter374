@@ -12,7 +12,7 @@
 ![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
 [![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
 
-<a href="(https://github.com/CarterLB-COM/OPERATOR-FBI-patch)">
+<a href="https://github.com/CarterLB-COM/OPERATOR-FBI-patch">
   <img align="center" src="https://carterlb-com-stats.vercel.app/api/pin/?username=carterlb-com&theme=transparent&repo=OPERATOR-FBI-patch" />
 </a>
 
