@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X"></a>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold">
 </p>
 
 <hr>
@@ -10,6 +11,10 @@
 
 ![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
 [![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
+
+<a href="(https://github.com/CarterLB-COM/OPERATOR-FBI-patch)">
+  <img align="center" src="https://carterlb-com-stats.vercel.app/api/pin/?username=carterlb-com&theme=transparent&repo=OPERATOR-FBI-patch" />
+</a>
 
 <h1 align="center">Toolbox:
   <br><sub><p align="center">
