@@ -1,8 +1,8 @@
 ![card](https://github.com/user-attachments/assets/f21b6ca3-5011-4126-a36f-1722b35eb163)
 
 <p align="center">
-  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X"></a>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold">
+  <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X" width=200px></a>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
 </p>
 
 <hr>
@@ -28,4 +28,4 @@
 
 <h5>Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br></h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=FF4500" alt="carterlb-com" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=FF4500" width=200px alt="carterlb-com" /> </p>
