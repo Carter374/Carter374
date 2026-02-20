@@ -1,5 +1,6 @@
-
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/ea542531-ae24-41ca-a62b-3d1ea5aba879" /></p>
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/United%20States.svg" alt="United States flag"/>
+</p>
 
 <p align="center">
   <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X" width=200px></a>
