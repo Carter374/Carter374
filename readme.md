@@ -1,8 +1,13 @@
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/United%20States.svg" alt="United States flag"/>
+  <img width="300" alt="image" src="images/United States.svg" alt="United States flag"/>
 </p>
 
-<p align="center">
+<p>
+  Hello 👋 <br>
+  • Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.
+</p>
+
+<p>
   <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X" width=200px></a>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
 </p>
@@ -21,9 +26,5 @@
 </h1>
 
 <h1 align="center">Contect:
-  <br><sub>if you went to contect me, use my <a href="https://github.com/CarterLB-COM/contect/discussions">contect repo</a> or twitter.</sub>
+  <br><sub>if you went to contect me, use my <a href="https://github.com/CarterLB-COM/contect/discussions">contect repo</a> or twitter.</sub> <br>
 </h1>
-
-<h5>Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br></h5>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=FF4500" width=200px alt="carterlb-com" /> </p>
