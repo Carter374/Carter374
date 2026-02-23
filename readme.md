@@ -26,5 +26,5 @@
 </h1>
 
 <h1 align="center">Contect:
-  <br><sub>if you went to contect me, use my <a href="https://github.com/CarterLB-COM/contect/discussions">contect repo</a> or twitter.</sub> <br>
+  <br><sub>if you went to contect me, use my <a href="https://github.com/CarterLB-COM/contect/discussions">contect repo</a> or twitter. if this is related to my Nexus mods contect me there!</sub> <br>
 </h1>
