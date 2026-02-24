@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X" width=200px></a>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Carter374?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
 </p>
 
 <hr>
