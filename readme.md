@@ -8,15 +8,15 @@
 </p>
 
 <p>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Carter374?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Arcadian888?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
 </p>
 
 <hr>
 
 <div align="center">
 
-![GitHub stats](https://carter374-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
-[![Top Langs](https://carter374-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
+![GitHub stats](https://Arcadian888-stats.vercel.app/api?username=Arcadian888&theme=transparent&show_icons=true)
+[![Top Langs](https://Arcadian888-stats.vercel.app/api/top-langs/?username=Arcadian888&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
 
 <h1 align="center">Toolbox:
   <br><sub><p align="center">
